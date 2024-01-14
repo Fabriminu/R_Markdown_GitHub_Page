@@ -4,7 +4,7 @@ author: "Fabrizio Minute"
 date: "2024-01-11"
 output: html_document
 fig_width: 15 
-fig_height: 4 
+fig_height: 5 
 ---
 
 ## Objective
