@@ -2,7 +2,7 @@
 title: "Bike Share-Data Analysis-Google Data Analytics-Capstone Project"
 author: "Fabrizio Minute"
 date: "2024-01-11"
-output: html_document
+output: github_document
 fig_width: 15 
 fig_height: 5 
 ---
